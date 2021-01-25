@@ -1,0 +1,12 @@
+styles need to be camel case
+
+dishes.map((dish, i) => ({ id: i, title: dish }));
+
+can use url in place of image
+
+<React.Fragment /> allows for components to sit next to eachother (wraper)
+    - shorthand <></>
+
+- className instead of class
+
+
