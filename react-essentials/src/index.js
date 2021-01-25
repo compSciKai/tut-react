@@ -3,5 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from "./App";
 
-ReactDOM.render(<App />, document.getElementById('root')
+const [firstItemInArray] = ["boots", "tent", "headlamp"];
+console.log(firstItemInArray);
+
+ReactDOM.render(<App authorized={true}/>, document.getElementById('root')
 );

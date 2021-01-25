@@ -9,4 +9,7 @@ can use url in place of image
 
 - className instead of class
 
+- array desctructuring: const [, , item] = ["one", "two", "three"]; console.log(item);
+
+- useState to manage local variables
 
