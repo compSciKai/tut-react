@@ -13,3 +13,17 @@ can use url in place of image
 
 - useState to manage local variables
 
+- npm test instead of npm start
+
+- expect(function).toBe(answer)
+
+- testing-library
+
+- react router
+- cmd: `npm install react-router@next react-router-dom@next`
+
+- pages.js
+- `npm install history`
+
+
+
