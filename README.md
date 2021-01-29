@@ -5,3 +5,6 @@ The code in this project was written in conjunction with a [Linkedin Learning co
 I wanted to learn this framework for a few reasons. One, being my interest in web development. Two, the ability to create reusable components. And three, to hopefully implement this framework into a school project. 
 
 Different components of this tutorial ie. testing, routing, components, were created in separate branches.
+
+
+Please see sample images for quick snapshots of some outcomes of this tutorial
